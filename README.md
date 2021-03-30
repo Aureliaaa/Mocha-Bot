@@ -1,2 +1,2 @@
 # Mocha-Bot
-Mocha discord bot c
+Mocha discord bot
