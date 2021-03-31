@@ -39,7 +39,7 @@ if __name__ == '__main__':
 
 @bot.event
 async def on_ready():
-	print(f"We have logged in as {bot.user}")
+	print(f"{bot.user} has been sucessfully initialised")
 	await bot.change_presence(activity=discord.Activity(type=discord.ActivityType.watching, name =f"{bot.command_prefix}help"))
 	print(discord.__version__)
 
