@@ -3,6 +3,7 @@ from discord.ext import commands
 import time
 from random import randint
 
+#List of Commands
 utility = ["help", "ping", "test"]
 fun = ["rickRoll"]
 action = ["hello", "love"]

@@ -6,7 +6,8 @@ import time
 class FunCog(commands.Cog, name="Fun commands"):
 	def __init__(self, bot:commands.bot):
 		self.bot = bot
-        
+
+	#Rick Roll Command    
 	@commands.command(name = "rickRoll",
 					aliases= ["rr"],
 					usage="",
