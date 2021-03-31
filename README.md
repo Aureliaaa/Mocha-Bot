@@ -1,5 +1,11 @@
 # Mocha-Bot
-Mocha discord bot
+Mocha is a general purpose discord bot that primarily focuses on general and fun commands without much in the way of moderation. There are many planned features such as:
+* Extended action commands to sate your desire to nuzzles your discord homies
+* More fun/troll commands in case you feel the need to be uhh *excessively humorous*
+* Possibility of a marriage system...
+* and many more to come! (when I get some more ideas)
+
+************
 
 ### Notes
 To actually get things to work you need to install a few things of which include:
